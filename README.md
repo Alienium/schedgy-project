@@ -6,7 +6,7 @@ Schedgy is an innovative scheduling application that blends modern aesthetics wi
 
 ## 📈 **Development Progress**
 
-We're building Schedgy with a focus on clean code, modern design patterns, and best practices. The current progress of the project is: ![10%](https://progress-bar.xyz/10)
+We're building Schedgy with a focus on clean code, modern design patterns, and best practices. The current progress of the project is: ![10%](https://progress-bar.xyz/15)
 
 Check back for updates as we continue to refine and develop this powerful scheduler.
 
